@@ -1,0 +1,14 @@
+C:\Users\dmitr\source\repos\LR7\LR7E3\bin\Debug\net10.0\LR7E3.exe
+C:\Users\dmitr\source\repos\LR7\LR7E3\bin\Debug\net10.0\LR7E3.deps.json
+C:\Users\dmitr\source\repos\LR7\LR7E3\bin\Debug\net10.0\LR7E3.runtimeconfig.json
+C:\Users\dmitr\source\repos\LR7\LR7E3\bin\Debug\net10.0\LR7E3.dll
+C:\Users\dmitr\source\repos\LR7\LR7E3\bin\Debug\net10.0\LR7E3.pdb
+C:\Users\dmitr\source\repos\LR7\LR7E3\obj\Debug\net10.0\LR7E3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\source\repos\LR7\LR7E3\obj\Debug\net10.0\LR7E3.AssemblyInfoInputs.cache
+C:\Users\dmitr\source\repos\LR7\LR7E3\obj\Debug\net10.0\LR7E3.AssemblyInfo.cs
+C:\Users\dmitr\source\repos\LR7\LR7E3\obj\Debug\net10.0\LR7E3.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\LR7\LR7E3\obj\Debug\net10.0\LR7E3.dll
+C:\Users\dmitr\source\repos\LR7\LR7E3\obj\Debug\net10.0\refint\LR7E3.dll
+C:\Users\dmitr\source\repos\LR7\LR7E3\obj\Debug\net10.0\LR7E3.pdb
+C:\Users\dmitr\source\repos\LR7\LR7E3\obj\Debug\net10.0\LR7E3.genruntimeconfig.cache
+C:\Users\dmitr\source\repos\LR7\LR7E3\obj\Debug\net10.0\ref\LR7E3.dll
