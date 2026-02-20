@@ -1,0 +1,14 @@
+C:\Users\dmitr\source\repos\LR7\LR7E2\bin\Debug\net10.0\LR7E2.exe
+C:\Users\dmitr\source\repos\LR7\LR7E2\bin\Debug\net10.0\LR7E2.deps.json
+C:\Users\dmitr\source\repos\LR7\LR7E2\bin\Debug\net10.0\LR7E2.runtimeconfig.json
+C:\Users\dmitr\source\repos\LR7\LR7E2\bin\Debug\net10.0\LR7E2.dll
+C:\Users\dmitr\source\repos\LR7\LR7E2\bin\Debug\net10.0\LR7E2.pdb
+C:\Users\dmitr\source\repos\LR7\LR7E2\obj\Debug\net10.0\LR7E2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\source\repos\LR7\LR7E2\obj\Debug\net10.0\LR7E2.AssemblyInfoInputs.cache
+C:\Users\dmitr\source\repos\LR7\LR7E2\obj\Debug\net10.0\LR7E2.AssemblyInfo.cs
+C:\Users\dmitr\source\repos\LR7\LR7E2\obj\Debug\net10.0\LR7E2.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\source\repos\LR7\LR7E2\obj\Debug\net10.0\LR7E2.dll
+C:\Users\dmitr\source\repos\LR7\LR7E2\obj\Debug\net10.0\refint\LR7E2.dll
+C:\Users\dmitr\source\repos\LR7\LR7E2\obj\Debug\net10.0\LR7E2.pdb
+C:\Users\dmitr\source\repos\LR7\LR7E2\obj\Debug\net10.0\LR7E2.genruntimeconfig.cache
+C:\Users\dmitr\source\repos\LR7\LR7E2\obj\Debug\net10.0\ref\LR7E2.dll
