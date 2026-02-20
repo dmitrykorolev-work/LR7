@@ -12,7 +12,7 @@ internal class Program
 
         double price = 1000;
 
-        //price = discountCalculator( price ); // Will call only the last assigned lambda expression (price - 100)
+        //price = discountCalculator( price ); // Will only apply the last discount in the invocation list (price - 100)
 
         foreach ( Func<double, double> f in discountCalculator.GetInvocationList() )
         {
